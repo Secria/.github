@@ -1,4 +1,4 @@
-Secria
+
 Secria is a privacy-focused email service with end-to-end encryption, designed to keep your communications secure and private.
 🔐 Features
 
