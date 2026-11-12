@@ -1,4 +1,11 @@
-# Secria
+<p align="center">
+  <a href="https://secria.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Secria/.github/main/profile/secria-dark.svg">
+      <img src="https://raw.githubusercontent.com/Secria/.github/main/profile/secria.svg" alt="Secria" width="260">
+    </picture>
+  </a>
+</p>
 
 The better, safer workspace: mail, calendar, files, docs, an assistant and a VPN. Private by default.
 
